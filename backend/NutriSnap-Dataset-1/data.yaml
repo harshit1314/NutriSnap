@@ -1,0 +1,21 @@
+names:
+- Bread
+- Burger
+- Food-Detection
+- cheese
+- cherry
+- noodles
+- rice
+- salad
+- sauce
+- sweet
+nc: 10
+roboflow:
+  license: CC BY 4.0
+  project: nutrisnap-dataset
+  url: https://universe.roboflow.com/nutrisnapdataset/nutrisnap-dataset/dataset/1
+  version: 1
+  workspace: nutrisnapdataset
+test: ../test/images
+train: ../train/images
+val: ../valid/images

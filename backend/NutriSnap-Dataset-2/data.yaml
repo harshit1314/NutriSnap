@@ -1,0 +1,25 @@
+names:
+- Bread
+- Burger
+- cheese
+- cherry
+- noodles
+- nuggets
+- pizza
+- reference_object
+- rice
+- sabji
+- salad
+- sauce
+- sushi
+- sweet
+nc: 14
+roboflow:
+  license: CC BY 4.0
+  project: nutrisnap-dataset
+  url: https://universe.roboflow.com/nutrisnapdataset/nutrisnap-dataset/dataset/2
+  version: 2
+  workspace: nutrisnapdataset
+test: ../test/images
+train: ../train/images
+val: ../valid/images
